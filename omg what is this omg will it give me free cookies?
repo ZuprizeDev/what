@@ -1,5 +1,5 @@
 local list2 = {
-	    ["buy egg"] = ".b",
+	    ["buy egg"] = "6",
 	    ["join coin"] = "y", 
 	    ["rewards"] = ".1",
 	    ["vip rewards"] = ".v",
