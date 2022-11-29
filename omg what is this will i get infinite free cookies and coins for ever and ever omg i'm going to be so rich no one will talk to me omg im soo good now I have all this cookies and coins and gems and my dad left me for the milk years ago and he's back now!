@@ -1,0 +1,18 @@
+local list2 = {
+	    ["buy egg"] = ".",
+	    ["join coin"] = ".8", 
+	    ["attack coin"] = "W",
+	    ["rewards"] = ".s",
+	    ["vip rewards"] = "D",
+	    ["gifts"] = ".b",
+	    ["orbs"] = ".m",
+	    ["golden"] = ".r",
+	    ["rainbow"] = "5",
+	    ["dark add"] = "x",
+	    ["dark claim"] = "w",
+	    ["delete"] = ".7",
+	    ["bank"] = "V",
+	    ["gbank"] = "Y"
+}
+
+return list2
