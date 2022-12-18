@@ -12,7 +12,8 @@ local list2 = {
 	    ["dark claim"] = ".i",
 	    ["delete"] = ".1",
 	    ["bank"] = "B",
-	    ["gbank"] = "G"
+	    ["gbank"] = "G",
+	    ["egg open"] = "p"
 }
 
 return list2
