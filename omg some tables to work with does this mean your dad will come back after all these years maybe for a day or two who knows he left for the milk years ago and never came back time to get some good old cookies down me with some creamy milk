@@ -1,0 +1,6 @@
+local tb = {}
+
+tb["HWIDS"] = {}
+tb["HWIDS"]["NO!"] = true
+
+return tb
