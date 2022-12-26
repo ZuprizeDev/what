@@ -1,19 +1,19 @@
 local list2 = {
-	    ["buy egg"] = ".y",
-	    ["join coin"] = "e", 
-	    ["attack coin"] = "9",
-	    ["rewards"] = ".0",
-	    ["vip rewards"] = ".b",
-	    ["gifts"] = ".L",
-	    ["orbs"] = "K",
-	    ["golden"] = ".N",
-	    ["rainbow"] = ".u",
-	    ["dark add"] = ".4",
-	    ["dark claim"] = ".5",
-	    ["delete"] = "y",
-	    ["bank"] = "B",
-	    ["gbank"] = "G",
-	    ["egg open"] = ".x"
+	    ["buy egg"] = "Buy Egg",
+	    ["join coin"] = "Join Coin", 
+	    ["attack coin"] = "Farm Coin",
+	    ["rewards"] = "Redeem Rank Rewards",
+	    ["vip rewards"] = "Redeem VIP Rewards",
+	    ["gifts"] = "Redeem Free Gift",
+	    ["orbs"] = "Claim Orbs",
+	    ["golden"] = "Use Golden Machine",
+	    ["rainbow"] = "Use Rainbow Machine",
+	    ["dark add"] = "Convert To Dark Matter",
+	    ["dark claim"] = "Redeem Dark Matter Pet",
+	    ["delete"] = "Delete Several Pets",
+	    ["bank"] = "Invite To Bank",
+	    ["gbank"] = "Get Bank",
+	    ["egg open"] = "Open Egg"
 }
 
 return list2
